@@ -37,7 +37,7 @@ Overdue books count – 72
 
 
 ## Sample SQL Snippets
-```sql																					```sql
+```sql																					
 with category_count as 																	select r.return_date, b.status, r.book_quality,
 (																						CASE
 select i.issued_member_id, b.category													when status = 'yes' and book_quality = 'good' then 'available'
