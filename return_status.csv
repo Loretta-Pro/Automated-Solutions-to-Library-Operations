@@ -1,0 +1,151 @@
+return_id,issued_id,return_book_name,return_date,return_book_isbn,book_quality
+RS101,IS374,Automated Responsive Pricing Structure,2024-07-21 00:00:00.000000,978-9-874-59253-1,Damaged
+RS102,IS389,Diverse Client-Driven Access,2025-03-02 00:00:00.000000,978-5-281-62198-5,Good
+RS103,IS136,Focused Intermediate Protocol,2024-02-26 00:00:00.000000,978-8-533-72240-3,Good
+RS104,IS254,User-Friendly Systematic Product,2024-06-15 00:00:00.000000,978-8-928-45235-6,Good
+RS105,IS146,Ergonomic Incremental Graphical User Interface,2024-11-13 00:00:00.000000,978-8-344-50562-7,Good
+RS106,IS303,Re-Contextualized Modular Paradigm,2024-09-28 00:00:00.000000,978-6-136-83024-8,Damaged
+RS107,IS458,Customizable Upward-Trending Firmware,2024-09-26 00:00:00.000000,978-7-712-72814-9,Good
+RS108,IS163,Organic Secondary Utilization,2024-02-18 00:00:00.000000,978-6-421-32699-7,Good
+RS109,IS172,Secured Optimizing Architecture,2025-05-11 00:00:00.000000,978-4-698-59941-5,Fair
+RS110,IS472,Open-Source Optimal Interface,2025-01-24 00:00:00.000000,978-6-802-75866-4,Good
+RS111,IS385,Up-Sized Systematic Process Improvement,2024-11-10 00:00:00.000000,978-2-234-79041-2,Good
+RS112,IS244,Cloned Client-Server Architecture,2024-11-25 00:00:00.000000,978-0-687-47268-7,Good
+RS113,IS322,Stand-Alone Client-Server Architecture,2025-06-28 00:00:00.000000,978-1-249-43550-3,Good
+RS114,IS208,Enterprise-Wide Zero Administration Knowledge User,2025-12-05 00:00:00.000000,978-5-500-86865-1,Good
+RS115,IS413,Universal Bifurcated Success,2025-07-27 00:00:00.000000,978-1-415-62096-7,Good
+RS116,IS359,Profound Client-Server Solution,2025-09-18 00:00:00.000000,978-2-184-84107-0,Fair
+RS117,IS263,Multi-Channeled Interactive Product,2025-10-01 00:00:00.000000,978-9-338-48074-3,Good
+RS118,IS450,Cross-Platform Client-Server Project,2024-06-29 00:00:00.000000,978-7-617-62028-1,Damaged
+RS119,IS276,Profound Client-Server Solution,2024-09-05 00:00:00.000000,978-2-184-84107-0,Fair
+RS120,IS426,Front-Line Bottom-Line Implementation,2025-01-25 00:00:00.000000,978-1-526-68237-6,Good
+RS121,IS234,Phased Impactful Moratorium,2024-03-23 00:00:00.000000,978-5-521-85851-5,Good
+RS122,IS486,Synchronized Methodical Contingency,2025-03-14 00:00:00.000000,978-7-381-88470-8,Good
+RS123,IS463,Reverse-Engineered Coherent Knowledge User,2024-01-25 00:00:00.000000,978-8-646-10960-1,Good
+RS124,IS332,Universal Tangible Challenge,2024-11-12 00:00:00.000000,978-1-662-47289-8,Good
+RS125,IS240,Synergized Solution-Oriented Instruction Set,2025-02-24 00:00:00.000000,978-3-773-97122-5,Good
+RS126,IS226,Versatile Mission-Critical Budgetary Management,2025-06-16 00:00:00.000000,978-7-721-67939-6,Damaged
+RS127,IS440,Multi-Tiered Full-Range Adapter,2025-04-03 00:00:00.000000,978-2-378-46930-9,Good
+RS128,IS265,Synergized Solution-Oriented Instruction Set,2024-04-12 00:00:00.000000,978-3-773-97122-5,Damaged
+RS129,IS275,Customizable Optimizing Pricing Structure,2025-11-21 00:00:00.000000,978-9-299-69606-6,Fair
+RS130,IS507,Right-Sized 3Rdgeneration Knowledgebase,2024-01-15 00:00:00.000000,978-8-469-18870-8,Good
+RS131,IS336,Extended Modular Success,2025-11-22 00:00:00.000000,978-0-109-49110-9,Good
+RS132,IS407,Future-Proofed 24/7 Secured Line,2024-05-02 00:00:00.000000,978-2-755-96154-6,Fair
+RS133,IS269,Function-Based 24/7 Projection,2024-10-04 00:00:00.000000,978-0-820-56095-9,Good
+RS134,IS109,Phased Next Generation Success,2024-09-29 00:00:00.000000,978-0-847-66113-3,Damaged
+RS135,IS455,Sharable Well-Modulated Database,2025-08-03 00:00:00.000000,978-1-260-41439-2,Good
+RS136,IS169,Phased Grid-Enabled Artificial Intelligence,2025-07-23 00:00:00.000000,978-0-346-84364-1,Good
+RS137,IS431,Optimized Needs-Based Pricing Structure,2025-10-18 00:00:00.000000,978-8-682-13794-2,Good
+RS138,IS102,Implemented Fresh-Thinking Architecture,2024-09-18 00:00:00.000000,978-8-562-25860-3,Fair
+RS139,IS412,Programmable Hybrid Middleware,2024-11-09 00:00:00.000000,978-6-328-87280-4,Good
+RS140,IS344,Organic Intangible Time-Frame,2024-02-25 00:00:00.000000,978-4-737-89381-2,Good
+RS141,IS103,Multi-Channeled Dedicated Intranet,2024-03-24 00:00:00.000000,978-8-104-22934-3,Good
+RS142,IS105,Cross-Group 4Thgeneration Secured Line,2024-09-16 00:00:00.000000,978-5-194-80206-3,Good
+RS143,IS445,Polarized Regional Infrastructure,2024-02-04 00:00:00.000000,978-0-839-44522-8,Good
+RS144,IS189,Open-Source 6Thgeneration Initiative,2024-09-28 00:00:00.000000,978-4-550-20155-4,Fair
+RS145,IS312,Organic Intangible Time-Frame,2024-10-10 00:00:00.000000,978-4-737-89381-2,Fair
+RS146,IS510,Streamlined Leadingedge Firmware,2025-05-25 00:00:00.000000,978-0-812-71564-9,Fair
+RS147,IS457,Ergonomic Uniform Encryption,2024-12-20 00:00:00.000000,978-4-310-77862-9,Damaged
+RS148,IS461,Triple-Buffered Regional Extranet,2025-07-07 00:00:00.000000,978-6-977-78389-7,Good
+RS149,IS351,Diverse Client-Driven Access,2025-02-18 00:00:00.000000,978-5-281-62198-5,Good
+RS150,IS302,Distributed Needs-Based Product,2025-10-15 00:00:00.000000,978-2-706-86106-2,Damaged
+RS151,IS376,Cross-Group Bandwidth-Monitored Focus Group,2025-03-02 00:00:00.000000,978-4-983-87264-0,Good
+RS152,IS142,Synchronized Exuding Collaboration,2025-06-13 00:00:00.000000,978-2-810-49251-0,Good
+RS153,IS433,Monitored Asymmetric Product,2024-04-21 00:00:00.000000,978-0-893-73472-6,Good
+RS154,IS434,Diverse National Portal,2025-10-10 00:00:00.000000,978-6-479-15693-8,Good
+RS155,IS140,Synchronized Dynamic Conglomeration,2024-10-10 00:00:00.000000,978-8-401-69469-8,Fair
+RS156,IS470,Mandatory 3Rdgeneration Array,2024-11-08 00:00:00.000000,978-2-337-70443-4,Fair
+RS157,IS116,Implemented Cohesive Functionalities,2024-08-20 00:00:00.000000,978-4-572-31821-6,Good
+RS158,IS444,Mandatory Multi-Tasking Methodology,2025-05-05 00:00:00.000000,978-5-196-83133-6,Fair
+RS159,IS328,Secured Static Collaboration,2024-08-07 00:00:00.000000,978-6-533-34347-7,Good
+RS160,IS478,Face-To-Face Even-Keeled Adapter,2025-04-17 00:00:00.000000,978-0-909-57124-8,Good
+RS161,IS164,Pre-Emptive Didactic Collaboration,2024-06-15 00:00:00.000000,978-5-556-41502-9,Good
+RS162,IS281,Ergonomic Fault-Tolerant Moratorium,2024-04-22 00:00:00.000000,978-3-865-98716-5,Good
+RS163,IS293,Centralized Real-Time Architecture,2025-11-02 00:00:00.000000,978-6-252-49306-6,Fair
+RS164,IS408,Implemented Multi-Tasking Neural-Net,2025-09-06 00:00:00.000000,978-8-581-33803-3,Damaged
+RS165,IS284,Reverse-Engineered Foreground Data-Warehouse,2024-04-16 00:00:00.000000,978-0-348-95037-2,Good
+RS166,IS299,Stand-Alone Asynchronous System Engine,2025-08-25 00:00:00.000000,978-0-775-35313-6,Fair
+RS167,IS191,De-Engineered Responsive Parallelism,2024-11-26 00:00:00.000000,978-6-213-47125-9,Good
+RS168,IS479,User-Centric Context-Sensitive Algorithm,2024-11-27 00:00:00.000000,978-7-378-40619-1,Good
+RS169,IS460,User-Friendly 4Thgeneration Implementation,2024-10-05 00:00:00.000000,978-1-562-69886-0,Good
+RS170,IS337,Enhanced Secondary Infrastructure,2025-10-19 00:00:00.000000,978-1-642-22541-9,Good
+RS171,IS290,Integrated Asymmetric Workforce,2024-09-29 00:00:00.000000,978-6-426-18444-3,Good
+RS172,IS199,Managed Zero-Defect Definition,2025-03-09 00:00:00.000000,978-7-205-55015-1,Damaged
+RS173,IS462,Polarized Web-Enabled Moderator,2025-06-30 00:00:00.000000,978-6-761-77181-2,Damaged
+RS174,IS453,Centralized System-Worthy Installation,2024-09-07 00:00:00.000000,978-6-841-84569-9,Fair
+RS175,IS214,Operative Directional Strategy,2025-11-06 00:00:00.000000,978-3-144-26762-9,Fair
+RS176,IS111,Diverse Coherent Hardware,2025-09-19 00:00:00.000000,978-9-881-11832-8,Good
+RS177,IS509,Devolved Actuating Matrix,2024-07-10 00:00:00.000000,978-3-329-28837-9,Good
+RS178,IS456,Front-Line 3Rdgeneration Strategy,2025-06-10 00:00:00.000000,978-3-450-65082-4,Good
+RS179,IS449,Programmable Fresh-Thinking Success,2025-06-06 00:00:00.000000,978-5-415-68402-8,Good
+RS180,IS147,Digitized Upward-Trending Website,2024-10-20 00:00:00.000000,978-7-454-30332-4,Good
+RS181,IS415,Progressive Explicit Standardization,2024-11-09 00:00:00.000000,978-3-403-39816-5,Good
+RS182,IS421,Cross-Group Fault-Tolerant Hardware,2025-10-24 00:00:00.000000,978-4-265-70199-9,Damaged
+RS183,IS256,Seamless Object-Oriented Open System,2025-05-17 00:00:00.000000,978-6-807-36724-6,Damaged
+RS184,IS446,Automated Scalable Analyzer,2025-06-07 00:00:00.000000,978-2-438-83380-6,Good
+RS185,IS220,Universal Exuding Paradigm,2025-07-01 00:00:00.000000,978-4-902-69054-7,Good
+RS186,IS353,Programmable Context-Sensitive Hub,2024-09-16 00:00:00.000000,978-1-444-49552-5,Good
+RS187,IS286,Inverse Asynchronous Adapter,2025-09-17 00:00:00.000000,978-7-618-13268-7,Damaged
+RS188,IS119,Proactive Demand-Driven Throughput,2025-03-17 00:00:00.000000,978-3-868-85584-2,Good
+RS189,IS498,Visionary Background Alliance,2025-03-24 00:00:00.000000,978-6-238-70515-2,Good
+RS190,IS435,Optimized Mission-Critical Hierarchy,2025-07-17 00:00:00.000000,978-8-595-55236-5,Good
+RS191,IS411,Persistent Dynamic Concept,2024-09-17 00:00:00.000000,978-6-195-39451-1,Good
+RS192,IS491,Multi-Channeled Full-Range Productivity,2025-07-20 00:00:00.000000,978-8-619-53421-4,Good
+RS193,IS104,Synergistic Needs-Based Pricing Structure,2025-06-05 00:00:00.000000,978-7-646-95029-5,Good
+RS194,IS201,Configurable Interactive Support,2024-09-05 00:00:00.000000,978-0-570-53478-0,Good
+RS195,IS515,Inverse Actuating Success,2025-10-11 00:00:00.000000,978-6-341-68554-4,Good
+RS196,IS157,Programmable Hybrid Middleware,2025-02-18 00:00:00.000000,978-6-328-87280-4,Fair
+RS197,IS243,Cross-Group Hybrid Structure,2025-04-11 00:00:00.000000,978-9-989-46009-7,Good
+RS198,IS392,Secured Clear-Thinking Flexibility,2024-01-28 00:00:00.000000,978-5-577-30290-0,Good
+RS199,IS357,Versatile Upward-Trending Superstructure,2025-07-08 00:00:00.000000,978-4-863-54500-3,Good
+RS200,IS484,Proactive Responsive Orchestration,2024-04-23 00:00:00.000000,978-7-998-41148-5,Good
+RS201,IS188,Customer-Focused Interactive Success,2024-06-12 00:00:00.000000,978-4-869-42406-4,Damaged
+RS202,IS383,Up-Sized Transitional Local Area Network,2024-06-22 00:00:00.000000,978-6-728-47555-7,Good
+RS203,IS200,Horizontal Heuristic Hierarchy,2024-03-09 00:00:00.000000,978-2-974-14250-9,Good
+RS204,IS390,Robust Optimal Orchestration,2024-12-14 00:00:00.000000,978-7-599-24802-6,Good
+RS205,IS409,Advanced Bifurcated Service-Desk,2025-10-06 00:00:00.000000,978-0-695-72294-9,Good
+RS206,IS417,Automated Global Core,2024-05-31 00:00:00.000000,978-9-556-33276-7,Good
+RS207,IS190,Cloned 5Thgeneration Moratorium,2025-07-10 00:00:00.000000,978-3-936-70332-5,Damaged
+RS208,IS134,Seamless Systematic Core,2024-03-23 00:00:00.000000,978-1-901-26225-9,Good
+RS209,IS402,Down-Sized Leadingedge Database,2024-07-21 00:00:00.000000,978-1-660-22203-5,Good
+RS210,IS166,Re-Contextualized Clear-Thinking Definition,2024-05-18 00:00:00.000000,978-7-316-63368-7,Good
+RS211,IS506,Synergistic Upward-Trending Model,2025-08-18 00:00:00.000000,978-6-270-64266-7,Good
+RS212,IS430,Progressive Modular Budgetary Management,2024-05-23 00:00:00.000000,978-6-100-14543-4,Good
+RS213,IS233,Persistent Logistical Ability,2025-06-02 00:00:00.000000,978-9-640-65476-1,Fair
+RS214,IS423,Balanced Composite Neural-Net,2025-03-12 00:00:00.000000,978-5-278-83659-9,Good
+RS215,IS217,Organized Upward-Trending Forecast,2024-11-16 00:00:00.000000,978-1-184-45123-2,Good
+RS216,IS368,Decentralized Transitional Knowledgebase,2024-12-27 00:00:00.000000,978-0-399-95119-6,Good
+RS217,IS241,Customizable Regional Definition,2024-05-25 00:00:00.000000,978-6-466-27659-4,Good
+RS218,IS442,Face-To-Face Regional Contingency,2025-09-27 00:00:00.000000,978-3-943-62505-5,Good
+RS219,IS112,Decentralized Transitional Knowledgebase,2024-04-12 00:00:00.000000,978-0-399-95119-6,Good
+RS220,IS373,User-Friendly Systematic Product,2024-05-18 00:00:00.000000,978-8-928-45235-6,Good
+RS221,IS230,Managed User-Facing Orchestration,2025-12-18 11:45:31.952434,978-2-669-70570-9,Good
+RS222,IS387,Seamless Fresh-Thinking Firmware,2025-02-23 00:00:00.000000,978-0-737-83351-8,Fair
+RS223,IS333,Up-Sized Tangible Installation,2024-03-07 00:00:00.000000,978-1-310-80484-6,Fair
+RS224,IS483,Enterprise-Wide Analyzing Info-Mediaries,2025-12-19 11:45:31.953923,978-2-859-65176-8,Good
+RS225,IS319,Public-Key Encompassing Customer Loyalty,2024-01-27 00:00:00.000000,978-7-888-41886-5,Good
+RS226,IS127,Future-Proofed Human-Resource Solution,2024-11-05 00:00:00.000000,978-4-343-22571-0,Good
+RS227,IS266,Multi-Tiered Mobile Website,2025-03-07 00:00:00.000000,978-6-861-67637-6,Fair
+RS228,IS508,Digitized National Function,2024-06-22 00:00:00.000000,978-5-970-18300-8,Good
+RS229,IS309,Ergonomic Non-Volatile Access,2024-04-12 00:00:00.000000,978-1-709-18907-3,Damaged
+RS230,IS404,Customizable Upward-Trending Firmware,2025-12-19 00:00:00.000000,978-7-712-72814-9,Good
+RS231,IS513,Secured Well-Modulated Function,2025-05-27 00:00:00.000000,978-9-788-16380-3,Good
+RS232,IS366,Open-Architected Methodical Projection,2024-01-22 00:00:00.000000,978-7-570-14716-0,Fair
+RS233,IS339,Triple-Buffered Directional Productivity,2024-07-21 00:00:00.000000,978-2-592-83308-3,Damaged
+RS234,IS354,Realigned Context-Sensitive Monitoring,2025-02-10 00:00:00.000000,978-8-409-32939-1,Good
+RS235,IS467,Monitored 4Thgeneration Artificial Intelligence,2025-12-02 00:00:00.000000,978-1-706-54150-4,Fair
+RS236,IS365,User-Friendly Tangible Open System,2025-01-21 00:00:00.000000,978-4-163-58394-8,Good
+RS237,IS123,Monitored 3Rdgeneration Software,2025-04-29 00:00:00.000000,978-4-129-33647-4,Damaged
+RS238,IS215,Public-Key Stable Alliance,2024-10-25 00:00:00.000000,978-8-273-99825-6,Fair
+RS239,IS125,Centralized Bifurcated Matrix,2025-11-11 00:00:00.000000,978-5-666-31627-7,Damaged
+RS240,IS424,Team-Oriented Background Workforce,2024-07-06 00:00:00.000000,978-7-585-28024-2,Good
+RS241,IS316,Inverse Dynamic Artificial Intelligence,2025-12-09 00:00:00.000000,978-8-794-90274-3,Fair
+RS242,IS401,Multi-Channeled Context-Sensitive Core,2024-07-16 00:00:00.000000,978-7-209-41091-6,Damaged
+RS243,IS330,Innovative Multimedia Productivity,2024-11-08 00:00:00.000000,978-8-251-66333-2,Damaged
+RS244,IS262,Managed Clear-Thinking Info-Mediaries,2024-07-22 00:00:00.000000,978-3-813-39603-4,Good
+RS245,IS480,User-Friendly Mission-Critical Access,2024-09-11 00:00:00.000000,978-0-335-37710-9,Good
+RS246,IS301,Realigned Value-Added Knowledge User,2025-07-07 00:00:00.000000,978-8-800-36517-2,Good
+RS247,IS418,Sharable Directional Knowledge User,2025-05-19 00:00:00.000000,978-3-514-41890-4,Good
+RS248,IS272,Customer-Focused Client-Server Support,2025-02-22 00:00:00.000000,978-9-629-84905-9,Good
+RS249,IS469,Devolved Motivating Knowledgebase,2025-11-05 00:00:00.000000,978-3-329-27197-3,Fair
+RS250,IS113,Innovative Web-Enabled Orchestration,2025-06-21 00:00:00.000000,978-2-484-96034-9,Good
