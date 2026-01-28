@@ -37,7 +37,17 @@ Overdue books count – 72
 
 
 ## Sample SQL Snippets
-	
+```sql																					```sql
+with category_count as 																	select r.return_date, b.status, r.book_quality,
+(																						CASE
+select i.issued_member_id, b.category													when status = 'yes' and book_quality = 'good' then 'available'
+from issued_status2 i																	when status = 'yes' and book_quality = 'fair' then 'check book condition'
+join books2 b on i.issued_book_isbn = b.isbn											when status = 'yes' and book_quality = 'damaged' then 'need maintenance'	
+)																						when status = 'no' then 'unavailable'
+select *, row_number() over (partition by category) as most_borrowed_category			END as book_availability_status
+from category_count																		from return_status2 r	
+order by 3 desc;																		join books2 b on r.return_book_isbn = b.isbn;
+																						
 
 
 
