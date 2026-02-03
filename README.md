@@ -48,8 +48,7 @@ select *, row_number() over (partition by category) as most_borrowed_category			
 from category_count																		from return_status2 r	
 order by 3 desc;																		join books2 b on r.return_book_isbn = b.isbn;
 																						
-
-
+```
 
 
 
