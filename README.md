@@ -55,24 +55,27 @@ order by 3 desc;
 
 
 ## Summary of Findings
-•	B005 generates more revenue than the two previous branches before it. B001 generates the highest revenue
-•	Each employee makes an average of 89 in revenue in branch B005 while average of 59 in revenue in branch B002
-•	420 members have borrowed books out of which only 32 are active (have borrowed books in the last 60days)
-•	Over 3000 members are registered but have never borrowed books
-•	On the average, each staff is meant to issue at least 9books across branches.
-•	Identified five staffs who are considered as top performers and twenty staffs as under-performing
-•	Book category that are returned damaged are usually the science fiction and children’s books
-•	Most borrowed books are in the History category, followed by Fiction and then Thriller
+- B005 generates more revenue than the two previous branches before it. B001 generates the highest revenue
+- Each employee makes an average of 89 in revenue in branch B005 while average of 59 in revenue in branch B002
+- 420 members have borrowed books out of which only 32 are active (have borrowed books in the last 60days)
+- Over 3000 members are registered but have never borrowed books
+- On the average, each staff is meant to issue at least 9books across branches.
+- Identified five staffs who are considered as top performers and twenty staffs as under-performing
+- Book category that are returned damaged are usually the science fiction and children’s books
+- Most borrowed books are in the History category, followed by Fiction and then Thriller
+
 
 ## Recommendations
-•	I suggest we re-introduce the "Summer Reading Challenge" promotion or any other promotions to encourage more numbers to be active
-•	Increase overdue fines to encourage members to return books on or before due date
-•	Branch B005 is doing well in terms of performance and revenue compared to other branches
-•	Target re-engagement campaigns for dormant members
-•	Training program for underperforming staff
-•	Do a staff reshuffling across branches if possible
-•	Have informed conversations with members who usually borrow science fiction and children books about book care
-•	Carry out another member satisfaction ratings related to service speed in the nearest future to check for improved rate
+- I suggest we re-introduce the "Summer Reading Challenge" promotion or any other promotions to encourage more numbers to be active
+- Increase overdue fines to encourage members to return books on or before due date
+- Branch B005 is doing well in terms of performance and revenue compared to other branches
+- Target re-engagement campaigns for dormant members
+- Training program for underperforming staff
+- Do a staff reshuffling across branches if possible
+- Have informed conversations with members who usually borrow science fiction and children books about book care
+- Carry out another member satisfaction ratings related to service speed in the nearest future to check for improved rate
+
+
 
 ## Tools & Technologies
 -	SQL (MySQL)
